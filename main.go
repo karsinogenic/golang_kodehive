@@ -1,9 +1,6 @@
 package main
 
-import {
-	"fmt"
-	summod
-}
+import "fmt"
 
 func main() {
 	fmt.Print("coba")
